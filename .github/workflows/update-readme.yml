@@ -2,8 +2,8 @@ name: Update README with GitHub Stats
 
 on:
   schedule:
-    - cron: '0 */12 * * *' # Runs every 12 hours
-  workflow_dispatch: # Allows manual triggering
+    - cron: '0 */12 * * *'  # Runs every 12 hours
+  workflow_dispatch:  # Allows manual triggering
 
 jobs:
   update-readme:
