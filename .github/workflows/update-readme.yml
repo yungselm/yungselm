@@ -11,10 +11,12 @@ jobs:
     steps:
       - name: Checkout repository
         uses: actions/checkout@v4
+        with:
+          token: ${{ secrets.GITHUB_TOKEN }}  # Use the default GitHub token for authentication
 
       - name: Update README
         run: |
-          curl -o README.md "https://github-readme-stats.vercel.app/api/top-langs/?username=yungselm&layout=compact&count_private=true&include_all_commits=true&show_icons=true&theme=radical&hide=html,css&token=${{ secrets.GH_PAT }}"
+          curl -o README.md "https://github-readme-stats.vercel.app/api/top-langs/?username=yungselm&layout=compact&count_private=true&include_all_commits=true&show_icons=true&theme=radical&hide=html,css"
 
       - name: Commit and push if changed
         run: |
