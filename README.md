@@ -1,7 +1,7 @@
 # Welcome to My GitHub Profile!
 
 ## Top Languages (from my own repos)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=yungselm&layout=compact)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=yungselm&layout=compact&count_private=true&include_all_commits=true&show_icons=true&theme=radical&hide=html,css)
 
 ## My Research Group Projects
 ### AIVUS-CAA
