@@ -7,6 +7,11 @@
 ### AIVUS-CAA
 [![AIVUS-CAA Stats](https://github-readme-stats.vercel.app/api/pin/?username=AI-in-Cardiovascular-Medicine&repo=AIVUS-CAA)](https://github.com/AI-in-Cardiovascular-Medicine/AIVUS-CAA)
 
+## Technologies
+[![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white)](https://github.com/yungselm?tab=repositories&q=&type=&language=Python)
+[![Rust](https://img.shields.io/badge/-Rust-000000?logo=rust&logoColor=white)](https://github.com/yungselm?tab=repositories&q=&type=&language=Rust)
+[![R](https://img.shields.io/badge/-R-276DC3?logo=r&logoColor=white)](https://github.com/yungselm?tab=repositories&q=&type=&language=R)
+
 ### NARCO_analysis
 [![NARCO_analysis Stats](https://github-readme-stats.vercel.app/api/pin/?username=AI-in-Cardiovascular-Medicine&repo=NARCO_analysis)](https://github.com/AI-in-Cardiovascular-Medicine/NARCO_analysis)
 
