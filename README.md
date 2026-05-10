@@ -1,7 +1,7 @@
 # ✩Welcome to My GitHub Profile!✩
 Hi my name is Anselm and I'm a MD-PhD by trade breaking into software development to bring medical knowledge and technical innovation together🫀. Passionate about open-source and always looking to learn, so feel free to reach out if you have a fitting challenge!
 
-ﮩ٨ـﮩﮩ٨ـ♡ﮩ٨ـﮩﮩ٨ـ.ﮩ٨ـﮩﮩ٨ـ♡ﮩ٨ـﮩﮩ٨ـ.ﮩ٨ـﮩﮩ٨ـ♡ﮩ٨ـﮩﮩ٨ـ.ﮩ٨ـﮩﮩ٨ـ♡ﮩ٨ـﮩﮩ٨ـ.
+<div dir="ltr">ﮩ٨ـﮩﮩ٨ـ♡ﮩ٨ـﮩﮩ٨ـ.ﮩ٨ـﮩﮩ٨ـ♡ﮩ٨ـﮩﮩ٨ـ.ﮩ٨ـﮩﮩ٨ـ♡ﮩ٨ـﮩﮩ٨ـ.ﮩ٨ـﮩﮩ٨ـ♡ﮩ٨ـﮩﮩ٨ـ.</div>
 
 
 ## Opinion: LLMs and their influence on progress
@@ -15,7 +15,8 @@ Recently I found myself in a weird spot: LLMs made me faster in my research and 
 
 For me these models have similarities to other addictive technologies like slot machines or reels. Sometimes you one-shot a problem, sometimes the process is infuriatingly frustrating, but often the cycle just ends in repeatedly pressing the easy button like in some Pavlovian experiment, craving the next dopamine hit. However, if you solely generate code you are not programming, you are prompting. Output is not the same as growth, and skills you don't use atrophy.
 
-![Slot Machine Animation](slot_machine_animation.gif)
+<img src="slot_machine_animation.gif" width="25%" />
+
 *([source](https://ch.pinterest.com/pin/886927720339322240/))*
 
 I always learn faster when I actually had to struggle. So I came up with two strategies to still improve my skills and eventually become somebody able to write beautiful, secure code to compete with LLMs instead of just using them as a crutch.
@@ -31,7 +32,7 @@ My current project is:
 
 ⫘⫘⫘⫘⫘⫘⫘⫘⫘⫘⫘⫘⫘⫘⫘⫘⫘⫘⫘
 ## Top Languages
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=yungselm&layout=compact&count_private=true&include_all_commits=true&show_icons=true&theme=radical&hide=html,css&cache_seconds=86400)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=yungselm&layout=compact&theme=radical&hide=html,css&cache_seconds=86400)
 
 ## Technologies
 <img src="https://skillicons.dev/icons?i=rust,py,r,git,windows,ubuntu, " />
