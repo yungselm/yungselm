@@ -3,32 +3,17 @@ Hi my name is Anselm and I'm a MD-PhD by trade breaking into software developmen
 
 <div dir="ltr">ﮩ٨ـﮩﮩ٨ـ♡ﮩ٨ـﮩﮩ٨ـ.ﮩ٨ـﮩﮩ٨ـ♡ﮩ٨ـﮩﮩ٨ـ.ﮩ٨ـﮩﮩ٨ـ♡ﮩ٨ـﮩﮩ٨ـ.ﮩ٨ـﮩﮩ٨ـ♡ﮩ٨ـﮩﮩ٨ـ.</div>
 
-
-## Opinion: LLMs and their influence on progress
-Recently I found myself in a weird spot: LLMs made me faster in my research and slower as a developer at the same time. I feel more and more dependent on the "easy dopamine" button they provide, and in the meantime I could feel my skills stagnate.
-
-⟡˙⋆.───˚✮༺𓆩────── ⋆⋅☆⋅⋆ ─────𓆪༻✮˚───.⋆˙⟡
-
-*This problem is especially real for people like me who were not 10x engineers when LLMs hit. The models promised the possibility to solve problems above my current skill level, which felt like a ladder. But if someone else carries you up the ladder you don't actually learn to climb.*
-
-⟡˙⋆.───˚✮༺𓆩────── ⋆⋅☆⋅⋆ ─────𓆪༻✮˚───.⋆˙⟡
-
-For me these models have similarities to other addictive technologies like slot machines or reels. Sometimes you one-shot a problem, sometimes the process is infuriatingly frustrating, but often the cycle just ends in repeatedly pressing the easy button like in some Pavlovian experiment, craving the next dopamine hit. However, if you solely generate code you are not programming, you are prompting. Output is not the same as growth, and skills you don't use atrophy.
+## On LLMs and skill
+LLMs made me faster in my research and slower as a developer at the same time. They're closer to slot machines than power tools -> addictive feedback loops, with unpredictable outcome that reward prompting over thinking. Output is not the same as growth, and skills you don't use atrophy.
 
 <img src="slot_machine_animation.gif" width="25%" />
 
 *([source](https://ch.pinterest.com/pin/886927720339322240/))*
 
-I always learn faster when I actually had to struggle. So I came up with two strategies to still improve my skills and eventually become somebody able to write beautiful, secure code to compete with LLMs instead of just using them as a crutch.
+So I keep two daily habits to stay sharp:
 
-### 1. Trad Coding
-Since fast results are a real need in my research job, LLMs stay in the toolkit there. To counter this I dedicate 2h per day to **Traditional Coding (Trad Coding)** where I'm allowed to look things up but don't generate code. Keeping the brain from rotting.
-
-### 2. Zen Coding
-I dedicate 1h per day to a **Zen Coding** project (pinned). Completely off-grid, no internet, no tools except the downloaded standard library. Projects should be challenging at my current skill level but manageable offline. All in Rust, since I am confident that low-level languages are the way to go to compete with LLMs and secure code will only matter more as AI-generated code grows.
-
-My current project is:
-![Zen Coding Project]()
+- **Trad Coding** — 2h/day, look things up freely, but no code generation. Staying hands-on.
+- **Zen Coding** — 1h/day, fully offline, no internet, standard library only. Currently in Rust (pinned project). Low-level languages and secure code matter more as AI-generated code grows.
 
 ⫘⫘⫘⫘⫘⫘⫘⫘⫘⫘⫘⫘⫘⫘⫘⫘⫘⫘⫘
 ## Top Languages
