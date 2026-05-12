@@ -17,7 +17,7 @@ So I keep two daily habits to stay sharp:
 
 ⫘⫘⫘⫘⫘⫘⫘⫘⫘⫘⫘⫘⫘⫘⫘⫘⫘⫘⫘
 ## Top Languages
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=yungselm&layout=compact&theme=radical&hide=html,css&cache_seconds=86400)
+![Top Languages](https://github-readme-stats-five-tau-42.vercel.app/api/top-langs/?username=yungselm&layout=compact&theme=radical&hide=html,css&cache_seconds=86400)
 
 ## Technologies
 <img src="https://skillicons.dev/icons?i=rust,py,r,git,windows,ubuntu, " />
