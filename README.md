@@ -6,9 +6,7 @@ Hi my name is Anselm and I'm a MD-PhD by trade breaking into software developmen
 ## On LLMs and skill
 LLMs made me faster in my research and slower as a developer at the same time. They're closer to slot machines than power tools -> addictive feedback loops, with unpredictable outcome that reward prompting over thinking. Output is not the same as growth, and skills you don't use atrophy.
 
-<img src="slot_machine_animation.gif" width="25%" />
-
-*([source](https://ch.pinterest.com/pin/886927720339322240/))*
+<img src="slot_machine_animation.gif" width="25%" title="Source: Pinterest" />
 
 So I keep two daily habits to stay sharp:
 
@@ -23,11 +21,17 @@ So I keep two daily habits to stay sharp:
 <img src="https://skillicons.dev/icons?i=rust,py,r,git,windows,ubuntu, " />
 
 ## Current main research project
-[![AIVUS-CAA](https://github-readme-stats.vercel.app/api/pin/?username=AI-in-Cardiovascular-Medicine&repo=AIVUS-CAA)](https://github.com/AI-in-Cardiovascular-Medicine/AIVUS-CAA)
-[![multimodars](https://github-readme-stats.vercel.app/api/pin/?username=yungselm&repo=multimoda-rs)](https://github.com/yungselm/multimoda-rs)
+<p align="center">
+  <a href="https://github.com/AI-in-Cardiovascular-Medicine/AIVUS-CAA">
+    <img src="https://github-readme-stats-five-tau-42.vercel.app/api/pin/?username=AI-in-Cardiovascular-Medicine&repo=AIVUS-CAA&theme=radical" />
+  </a>
+  <a href="https://github.com/yungselm/multimoda-rs">
+    <img src="https://github-readme-stats-five-tau-42.vercel.app/api/pin/?username=yungselm&repo=multimoda-rs&theme=radical" />
+  </a>
+</p>
 
 ## Connect with me
-<P align="center">
+<p align="center">
 	<a href="https://orcid.org/0000-0002-5861-3753">
 	  <img src="https://img.shields.io/badge/ORCID-0000--0001--9295--9283-green?logo=orcid" height="20"/>
 	</a>
@@ -37,4 +41,4 @@ So I keep two daily habits to stay sharp:
 	<a href="https://www.linkedin.com/in/anselm-stark-8a6474339/">
 	  <img src="https://img.shields.io/badge/LinkedIn-My%20network-blue?logo=linkedin" height="20"/>
 	</a>
-</P>
+</p>
