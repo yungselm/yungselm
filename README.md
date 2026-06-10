@@ -11,7 +11,7 @@ LLMs made me faster in my research and slower as a developer at the same time. T
 So I keep two daily habits to stay sharp:
 
 - **Trad Coding** — 2h/day, look things up freely, but no code generation. Staying hands-on.
-- **Zen Coding** — 1h/day, fully offline, no internet, standard library only. Currently in Rust (pinned project). Low-level languages and secure code matter more as AI-generated code grows.
+- **Zen Coding** — 1h/day, fully offline, no internet, standard library only. Currently in Rust, since low-level languages and secure code matter more as AI-generated code grows. (Currently snake in Rust to learn the Elm-architecture with `iced`).
 
 ⫘⫘⫘⫘⫘⫘⫘⫘⫘⫘⫘⫘⫘⫘⫘⫘⫘⫘⫘
 ## Top Languages
