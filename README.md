@@ -27,8 +27,8 @@ The Anki-Progress will be posted here in irregular intervals (last updated 2026-
 
 ## Current main research project
 <p align="center">
-  <a href="https://github.com/AI-in-Cardiovascular-Medicine/AIVUS-CAA">
-    <img src="https://github-readme-stats-five-tau-42.vercel.app/api/pin/?username=AI-in-Cardiovascular-Medicine&repo=AIVUS-CAA&theme=radical" />
+  <a href="https://github.com/AI-in-Cardiovascular-Medicine/HolOrama">
+    <img src="https://github-readme-stats-five-tau-42.vercel.app/api/pin/?username=AI-in-Cardiovascular-Medicine&repo=HolOrama&theme=radical" />
   </a>
   <a href="https://github.com/yungselm/multimoda-rs">
     <img src="https://github-readme-stats-five-tau-42.vercel.app/api/pin/?username=yungselm&repo=multimoda-rs&theme=radical" />
