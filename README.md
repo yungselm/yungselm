@@ -11,8 +11,8 @@ LLMs made me faster in my research and slower as a developer at the same time. T
 I keep three daily habits to counter out-sourcing thinking and stay sharp:
 
 - **Trad Coding** - 2h/day, look things up freely, but no code generation. Staying hands-on.
-- **Zen Coding** - ~1h/day, fully offline, no internet, standard library only. Currently in Rust, since low-level languages and secure code matter more as AI-generated code grows. (Currently snake in Rust to learn the Elm-architecture with `iced`).
 - **Anki** - ~1h/day A spaced repetition memorization software, which already helped me succeed in medschool. I'm currently creating a deck that aims to be "like a basic vocabulary for Rust". Additionally, I recreated Neetcode 150 questions as Rust cards. I aim for 9 cards/day from the basic vocabulary and 1 card/day from the Neetcode questions.
+- **Zen Coding** - when time allows, fully offline, no internet, standard library only. Currently in Rust, since low-level languages and secure code matter more as AI-generated code grows. (Currently snake in Rust to learn the Elm-architecture with `iced`).
 
 The Anki-Progress will be posted here in irregular intervals (last updated 2026-07-12):
 
