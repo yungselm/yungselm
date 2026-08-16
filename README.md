@@ -23,7 +23,7 @@ The Anki-Progress will be posted here in irregular intervals (last updated 2026-
 ![Top Languages](https://github-readme-stats-five-tau-42.vercel.app/api/top-langs/?username=yungselm&layout=compact&theme=radical&hide=html,css&cache_seconds=86400)
 
 ## Technologies
-<img src="https://skillicons.dev/icons?i=rust,py,r,git,windows,ubuntu, " />
+<img src="https://skillicons.dev/icons?i=rust,py,r,git,windows,ubuntu,latex,qt,obsidian " />
 
 ## Current main research project
 <p align="center">
