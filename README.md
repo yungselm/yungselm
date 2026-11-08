@@ -18,7 +18,7 @@ As researchers, though, our thinking abilities are essential. So instead of avoi
 
 This way, code I'm fluent in gets automated, my effort goes into the challenging parts, and everything new ends up in spaced repetition instead of being forgotten, while avoiding asking the same thing over and over again.
 
-The Anki-Progress will be posted here in irregular intervals (last updated 2026-10-25):
+The Anki-Progress will be posted here in irregular intervals (last updated 2026-11-08):
 
 <img src="anki_streak.jpg" width="60%"/>
 
