@@ -6,17 +6,19 @@ Hi my name is Anselm and I'm a MD-PhD by trade breaking into software engineerin
 ## On LLMs and skill
 As much as it bothers me, over the last months it became clear to me that LLMs are extremely powerful and will permanently change coding and research, above all how much of it is still done by hand.
 
-But I also had to admit that skill atrophy is real: the tools were making me lazier and dumber. Thinking is hard and exhausting, and a tool that delivers near-instant, often very good results is tempting (like a slot machine promising fast wins, but losses occur more often).
+But I also realized that skill atrophy is real: the tools were making me lazier and dumber. A tool that delivers near-instant, often very good results is tempting (like a slot machine promising fast wins, but losses - like skill atrophy - occur more often).
 
 <img src="slot_machine_animation.gif" width="25%" title="Source: Pinterest" />
 
-As researchers, though, our thinking abilities are essential. So instead of avoiding LLMs, I built a workflow where they work *for* my learning instead of replacing it:
+As researchers, though, our thinking abilities are essential. So instead of avoiding LLMs, I built the token-efficient [agentic-studying-loop](https://github.com/yungselm/agentic-studying-loop) workflow where they work *for* my learning instead of replacing it:
 
-1. **Obsidian as the knowledge base** - everything I learn becomes a study note in my vault, which doubles as my lookup when I'm stuck.
-2. **A data-driven card standard** - [Anki](https://apps.ankiweb.net/) already got me through medschool. From thousands of reviews of my [rust-lang-kata](https://github.com/yungselm/rust-lang-kata) deck ("a basic vocabulary for Rust" plus the NeetCode 150) I derived a card standard, e.g. code cards get harder with the characters you *type*, not the lines you read, so cards pre-fill the context and blank only the key line.
-3. **A CLAUDE.md in every project, linked to the vault** - Claude checks what I already know before explaining anything. For a new topic: study note first, then I write the code, we confirm it together, and only then Claude writes Anki cards from it.
+1. **Obsidian as the knowledge base** - everything I learn becomes a study note in my [Obsidian](https://obsidian.md/) vault, which doubles as my lookup when I'm stuck.
+2. **A tool box to build Anki cards** - [Anki](https://apps.ankiweb.net/) is a spaced repetition program, which already got me through medschool. The agent is equiped with a toolbox to build a variety of card types, check them and compile them.
+3. **A data-driven card standard** - From tens of thousands of my Staatsexamen reviews and thousands of reviews of my [rust-lang-kata](https://github.com/yungselm/rust-lang-kata) deck ("a basic vocabulary for Rust" plus the NeetCode 150) I derived a data-driven card standard.
+4. **A CLAUDE.md in every project, linked to the vault** - Claude checks what I already know before explaining anything. Different modes let Claude act as a teacher, mentor or helper. Letting you control how much code you write.
+5. **Knowledge from books to fill the gaps** - Additional tools allow the agent to build cards directly from books and slide, working in chunks saving tokens.
 
-This way, code I'm fluent in gets automated, my effort goes into the challenging parts, and everything new ends up in spaced repetition instead of being forgotten, while avoiding asking the same thing over and over again.
+This way, code I'm fluent in gets automated, my effort goes into the challenging parts, and everything new ends up in spaced repetition instead of being forgotten.
 
 The Anki-Progress will be posted here in irregular intervals (last updated 2026-11-08):
 
